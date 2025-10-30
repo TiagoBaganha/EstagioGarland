@@ -4,8 +4,7 @@ Projeto de estágio curricular da Licenciatura em Informática (Redes e Ciberseg
 **Estudante:** Tiago Leal Baganha  
 **Ano Letivo:** 2024/2025  
 **Entidade Acolhedora:** Garland  
-**Supervisor Técnico:** Eng. Bruno Silveira  
-**Orientador Académico:** Docente Mário Serrão
+
 
 ## 📘 Descrição do Projeto
 
